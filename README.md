@@ -33,7 +33,7 @@ We’re in **stealth mode** while formalizing intellectual-property protections 
 ---
 
 ## 🛠️ Stack & Tools I Work With
-`TypeScript` · `Next.js` · `Supabase` · `Docker` · `PostgreSQL` · `Airtable` · `n8n` · `DigitalOcean` · `Cursor` · `v0.dev`
+`TypeScript` · `Next.js` · `Supabase` · `Docker` · `PostgreSQL` · `Airtable` · `n8n` · `DigitalOcean` · `Python`
 
 ---
 
