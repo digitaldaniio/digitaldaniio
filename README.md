@@ -10,14 +10,14 @@ I’m an independent coder, fabricator, and systems designer focused on bridging
 
 My work explores how automation, data integrity, and decentralized design systems can reshape fabrication, manufacturing, and construction workflows.
 
-Currently operating under **Cindr Labs LLC**, an R&D studio developing interoperable tools and frameworks that make complex processes **usable, auditable, and resilient**.
+Currently operating under **Cindr Labs LLC**, an R&D studio developing real tools and frameworks that make complex processes **usable, auditable, and resilient**.
 
 ---
 
 ## 🧩 Cindr Labs (Stealth Mode)
 
-Cindr Labs is developing next-generation systems for fabrication and construction — where **design meets data**.  
-We’re in **stealth mode** while formalizing intellectual-property protections and validating live deployments with industry partners.
+Cindr Labs is developing next generation systems for fabrication and construction where **design meets data**.  
+We’re in **stealth mode** while finalizing our IP and validating live deployments with industry partners.
 
 🔒 Technical documentation is withheld pending patent filing.  
 🧠 Infrastructure built with deterministic, compliant, and scalable principles.
