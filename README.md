@@ -6,7 +6,7 @@
 
 ## 🧱 About Me
 
-I’m an independent technologist, fabricator, and systems designer focused on bridging the gap between **physical industries and digital infrastructure**.
+I’m an independent coder, fabricator, and systems designer focused on bridging the gap between **physical industries and digital infrastructure**.
 
 My work explores how automation, data integrity, and decentralized design systems can reshape fabrication, manufacturing, and construction workflows.
 
