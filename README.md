@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I’m Daniel — Founder of Cindr Labs
 
-<!--
-**digitaldaniio/digitaldaniio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> _Building reliable infrastructure for the next generation of creators, fabricators, and builders._
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧱 About Me
+
+I’m an independent technologist, fabricator, and systems designer focused on bridging the gap between **physical industries and digital infrastructure**.
+
+My work explores how automation, data integrity, and decentralized design systems can reshape fabrication, manufacturing, and construction workflows.
+
+Currently operating under **Cindr Labs LLC**, an R&D studio developing interoperable tools and frameworks that make complex processes **usable, auditable, and resilient**.
+
+---
+
+## 🧩 Cindr Labs (Stealth Mode)
+
+Cindr Labs is developing next-generation systems for fabrication and construction — where **design meets data**.  
+We’re in **stealth mode** while formalizing intellectual-property protections and validating live deployments with industry partners.
+
+🔒 Technical documentation is withheld pending patent filing.  
+🧠 Infrastructure built with deterministic, compliant, and scalable principles.
+
+---
+
+## 🏗️ Active Focus Areas
+- Secure automation for fabrication and manufacturing  
+- Workflow unification across design and production tools  
+- AI-assisted audit and compliance systems  
+- Field-ready data pipelines for physical industries  
+
+---
+
+## 🛠️ Stack & Tools I Work With
+`TypeScript` · `Next.js` · `Supabase` · `Docker` · `PostgreSQL` · `Airtable` · `n8n` · `DigitalOcean` · `Cursor` · `v0.dev`
+
+---
+
+## 📬 Get in Touch
+- 🌐 [cindrlabs.com](https://cindrlabs.com) *(coming soon)*  
+- ✉️ [hello@cindrlabs.com](mailto:hello@cindrlabs.com)  
+- 🧰 [@digitaldaniio](https://github.com/digitaldaniio)
+
+---
+
+### ⚠️ Legal Notice
+All Cindr Labs systems, documentation, and related IP are the property of **Cindr Labs LLC**.  
+Certain methods and designs are currently under **patent review** and are not disclosed publicly.
+
+---
+
+> “Build like a craftsman. Automate like an engineer.”
